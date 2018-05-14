@@ -8,5 +8,5 @@ or generate gaming map!!
 
 traffic city!!
 
-
+hierarchical inventory control 
 hierarchical geo structure, ring, connected component 
